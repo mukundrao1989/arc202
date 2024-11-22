@@ -1,2 +1,2 @@
 # arc210
-Handouts for reinvent 2023 session ARC-210
+Handouts for reinvent 2024 session ARC-202
